@@ -121,3 +121,10 @@
     justify-content: center;
 
 }
+.tabs-background-item-text{
+    color:#a7a4a4;
+    font-size: var(--sm);
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
