@@ -12,7 +12,7 @@ function Caja3(){
                         
                     </div>
                 </button>
-                <a className={style["btn-secondary"]} href="mailto:contact@me.com">
+                <a className={style["btn-secondary"]} href="https://enriquereynaldo39@gmail.com">
                     <div className={style["btn-content"]}>
                         <p>Contact me</p>
                     </div>
