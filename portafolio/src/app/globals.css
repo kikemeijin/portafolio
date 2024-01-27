@@ -4,6 +4,7 @@
   --color3:#0f4a6e;
   --color4:#9d8015;
   --color5:#6e5a0f;
+  --black:black;
   --background:#a7a4a4;
   --xs: 14px;
   --sm: 22px;
@@ -14,5 +15,5 @@
 }
 body{
   background-color: var(--background);
-  color: var(--color2);
+  color: var(--color4);
 }
